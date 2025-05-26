@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(187, 187, 187);
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    font-size: medium;
+    margin: 1mm;
+    padding: 1mm;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(255, 0, 0);
+    font-size: xx-large;
+}
+
+a{
+    display: inline-block;
+    font-weight: bold;
+    color: brown;
+}
+
+a a:hover{
+    text-decoration:wavy;
+}
